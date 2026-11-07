@@ -1,4 +1,12 @@
-## Hi there 👋
+## Ciallo～(∠・ω< )⌒★
+你好呀，这里是FellSakura喵  
+是一只来自中国的中学生喵  
+
+这是我的博客[点击前往](https://fellsakura.github.io)  
+由于时间原因所以很少写文章QWQ  
+
+- 🌱 我目前正在学习Java，希望以后可以成为一个Java工程师 
+- 🎮 我喜欢玩我的世界和原神  
 
 <!--
 **FellSakura/FellSakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
